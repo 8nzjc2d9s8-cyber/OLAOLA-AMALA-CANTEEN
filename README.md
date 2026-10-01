@@ -836,7 +836,30 @@ function order(category) {
         category +
         " category.%0A%0A" +
         "Please send me the available options.";
-
+images/
+├── white-rice.jpg
+├── jollof-rice.jpg
+├── amala.jpg
+├── eba.jpg
+├── semolina.jpg
+├── beans.jpg
+├── yam.jpg
+├── yam-porridge.jpg
+├── pounded-yam.jpg
+├── spaghetti.jpg
+├── egg.jpg
+├── meat.jpg
+├── fish.jpg
+├── goat-meat.jpg
+├── cow-leg.jpg
+├── egusi-soup.jpg
+├── vegetable-soup.jpg
+├── okra-soup.jpg
+├── ewedu.jpg
+├── beans-soup.jpg
+├── bread.jpg
+├── soft-drink.jpg
+└── water.jpg
     window.location.href =
         "https://wa.me/2348039222123?text=" + message;
 }
